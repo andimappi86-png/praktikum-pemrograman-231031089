@@ -15,4 +15,4 @@
 * Praktikum 10 : Pengenalan Definisi Fuction `mappi-praktikum-10.py`
 * Praktikum 11 : Menghitung facktorial menggunakan def `mappi-praktikum-c11.py`
 * Praktikum 12 : Pengenalan Range menggunakan definisi `mappi-praktikum-c12.py`
-* Praktikum 13 : Pengenalan Rekursif Fibonacci Menggunakan Def `mappi-praktikum-c13.py
+* Praktikum 13 : Pengenalan Rekursif Fibonacci Menggunakan Def `mappi-praktikum-c13.py`
